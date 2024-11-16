@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical"
+    android:layout_marginTop="100dp"
+    android:paddingHorizontal="16dp"
+    android:paddingVertical="16dp"
+    android:background="#C70039">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Bienvenido - Tópicos"
+        android:textStyle="bold"
+        android:textSize="32sp"
+        android:textColor="@color/white"
+        />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Sergio Duran Melo"
+        android:textSize="16sp"
+        android:textColor="@color/white"
+        />
+
+</LinearLayout>
